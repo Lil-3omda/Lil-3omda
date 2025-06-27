@@ -50,7 +50,7 @@
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lil-3omda&show_icons=true&theme=radical" alt="3omda's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lil-3omda&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="3omda's GitHub Stats" />
 </p>
+
