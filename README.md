@@ -5,12 +5,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎯 I’m a **Full Stack .NET Developer** focused on building efficient, secure, and maintainable software.
-- 🔧 Currently enhancing enterprise applications using **ASP.NET Core**, **Entity Framework**, and **SQL Server**.
-- 🚀 I enjoy optimizing code performance and improving existing systems with modern solutions.
-- 🧠 Always learning and exploring better practices in **clean architecture**, **API design**, and **frontend-backend integration**.
-- 📚 Currently deep-diving into **microservices**, **unit testing**, and **cloud deployments**.
-
+- 🎯 I'm a **Full Stack .NET Developer** focused on creating efficient, secure, and maintainable applications.
+- 🔧 Currently working on enhancing enterprise systems using **ASP.NET Core**, **Entity Framework**, and **SQL Server**.
+- 🛡️ I also have hands-on experience in **penetration testing** and **web application security**.
+- 🔐 Comfortable using security tools like **Burp Suite**, **OWASP ZAP**, and **Wireshark** to assess and improve application security.
+- 🧠 I actively apply secure coding practices and mitigate common vulnerabilities.
 ---
 
 ### 🌐 Connect with Me
