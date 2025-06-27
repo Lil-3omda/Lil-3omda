@@ -12,6 +12,9 @@
 - 🧠 I follow secure coding practices and actively defend against threats like **XSS**, **SQL Injection**, and **CSRF**.
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lil-3omda&label=Profile%20views&color=0e75b6&style=flat" alt="Lil-3omda" />
+</p>
 
 ### 🌐 Connect with Me
 
