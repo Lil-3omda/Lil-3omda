@@ -61,3 +61,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Lil-3omda&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="3omda's GitHub Stats" />
 </p>
 
+---
+### tryHackMe
+<p align="center">
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1341438" style='border:none;'></iframe>
+</p>
