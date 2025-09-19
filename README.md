@@ -64,5 +64,6 @@
 ---
 ### 🕵️‍♂️ TryHackMe
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Lil3omda.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Lil3omda.png" alt="Your Image Badge" />
+
 </p>
